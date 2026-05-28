@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/SandipanKaru/mock_interviewer/issues"
   },
-  "homepage": "https://github.com/SandipanKaru/mock_interviewer#readme"
+  "homepage": "https://github.com/SandipanKaru/mock_interviewer#readme",
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  }
 }
